@@ -1,11 +1,11 @@
 golem::fill_desc(
   pkg_name = "echowritr2",
-  pkg_title = "",
-  pkg_description = "Write Echo Acoustic Liquid Handler instructions from plate layouts.",
+  pkg_title = "Write Instructions for Echo Acoustic Liquid Handlers",
+  pkg_description = "Given layouts for both mother and daughter plates, writes instructions Echo Acoustic Liquid Handler.",
   author_first_name = "Taiasean",
   author_last_name = "Wu",
   author_email = "taiawu@gmail.com",
-  repo_url = NULL
+  repo_url =" https://github.com/taiawu/echowritr2"
 )     
 golem::set_golem_options()
 usethis::use_mit_license( "Golem User" )
